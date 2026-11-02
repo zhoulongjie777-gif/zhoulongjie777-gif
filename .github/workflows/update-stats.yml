@@ -1,0 +1,37 @@
+name: 更新主页贡献
+
+on:
+  schedule:
+    - cron: '23 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-contributions
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    if: github.repository == 'zhoulongjie777-gif/zhoulongjie777-gif'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 获取真实贡献并更新展示区
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_contrib.py zhoulongjie777-gif --out . --theme t1 --accent purple --language zh --top 4
+      - name: 校验本地资源
+        run: python scripts/verify_render.py --local .
+      - name: 仅在内容变化时提交
+        run: |
+          git add README.md assets/
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: 更新主页贡献 [skip ci]"
+          git push

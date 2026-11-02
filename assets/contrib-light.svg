@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="962" height="306" viewBox="0 0 962 306" role="img" aria-label="5 merged PRs">
 <title>5 merged PRs</title>
 
-<rect x="40" y="47" width="7" height="7" fill="#0969da"/>
-<text x="56" y="54" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#0969da" font-weight="600">OPEN SOURCE / MERGED PULL REQUESTS</text>
+<rect x="40" y="47" width="7" height="7" fill="#8250df"/>
+<text x="56" y="54" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8250df" font-weight="600">OPEN SOURCE / MERGED PULL REQUESTS</text>
 <text x="36" y="152" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="96" fill="#1f2328" font-weight="700" textLength="50.88" lengthAdjust="spacingAndGlyphs">5</text>
 <text x="104.88" y="130" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="18.5" fill="#59636e" font-weight="normal">merged PRs</text>
 <text x="104.88" y="152" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#59636e" font-weight="normal">覆盖 1 个仓库</text>
@@ -12,7 +12,7 @@
 <text x="82" y="220" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="19" fill="#1f2328" font-weight="700">langgenius/dify</text>
 <text x="82" y="240" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#59636e" font-weight="normal" textLength="655.50" lengthAdjust="spacingAndGlyphs">Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy…</text>
 <text x="922" y="220" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="17" fill="#59636e" font-weight="600" text-anchor="end">★ 160k</text>
-<text x="922" y="240" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#0969da" font-weight="600" text-anchor="end">5 PRs</text>
+<text x="922" y="240" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8250df" font-weight="600" text-anchor="end">5 PRs</text>
 <line x1="40" y1="264" x2="922" y2="264" stroke="#d1d9e0" stroke-width="1"/>
 <text x="40" y="290" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#59636e" font-weight="normal">数据源 GitHub Search API（is:pr is:merged）· 每个 PR 均可在 GitHub 复核</text>
 </svg>
