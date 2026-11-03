@@ -10,7 +10,7 @@
   "repos": [
     {
       "repo": "langgenius/dify",
-      "stars": 160207,
+      "stars": 160315,
       "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
       "owner": "langgenius",
       "logo": {
@@ -23,5 +23,5 @@
       "prs_exact": true
     }
   ],
-  "generated_at": "2026-11-02T08:41:25.893138+00:00"
+  "generated_at": "2026-11-03T11:07:08.891752+00:00"
 }
