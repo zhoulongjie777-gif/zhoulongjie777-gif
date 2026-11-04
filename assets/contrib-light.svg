@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="962" height="306" viewBox="0 0 962 306" role="img" aria-label="5 merged PRs">
-<title>5 merged PRs</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="962" height="368" viewBox="0 0 962 368" role="img" aria-label="6 merged PRs">
+<title>6 merged PRs</title>
 
 <rect x="40" y="47" width="7" height="7" fill="#8250df"/>
 <text x="56" y="54" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8250df" font-weight="600">OPEN SOURCE / MERGED PULL REQUESTS</text>
-<text x="36" y="152" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="96" fill="#1f2328" font-weight="700" textLength="50.88" lengthAdjust="spacingAndGlyphs">5</text>
+<text x="36" y="152" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="96" fill="#1f2328" font-weight="700" textLength="50.88" lengthAdjust="spacingAndGlyphs">6</text>
 <text x="104.88" y="130" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="18.5" fill="#59636e" font-weight="normal">merged PRs</text>
-<text x="104.88" y="152" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#59636e" font-weight="normal">覆盖 1 个仓库</text>
+<text x="104.88" y="152" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#59636e" font-weight="normal">覆盖 2 个仓库</text>
 <line x1="40" y1="182" x2="922" y2="182" stroke="#d1d9e0" stroke-width="1"/>
 <defs><clipPath id="lg0"><rect x="40" y="209" width="30" height="30" rx="7"/></clipPath></defs>
 <image x="40" y="209" width="30" height="30" clip-path="url(#lg0)" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAAEeElEQVR4nOxZXUhk5R9+xvHjuP6X+Y8TMsqEBuO4XuQiA5qo+IFfyECjraZiaCDUlZsQdScNEkR5oxdChRe5EBrujDrpjS5INdg2hpKOjlOTQYsihU6mNprOifPxm1VXbWec3VZ4n9/Lnt/7PL89nuec90uM5nkeVxlRlDADzAAzwAwwA8wAM8AMMAPMADPADDADzAAzcLUMRFNyGtvb23l5edSTwXGcTqczGAyVlZUlJSVKpZKUE3D/gtvd8P2Jd1tRW0IswfsA3Xfw7QIODmXm7oe4kSbnIQd/Dra2tqjkbBgMBpvNRuUncOsdHkahJZYQRbj3HX8tX1aDbX6F5NARjYsfUwy9Xh8TEwNgb29vY2PD7/cD8Hg8NTU1Fouls7OTCmUc/H06keKvfbzWiT0//n8dyc8RC8TFUhYGyMlFX8Dr9RLN7+/v2+32rKwsEjExMSFrFPcX+cxbfHIl/+nJLzR5X37lb7xP1KUBSh7XgBQ7Ozu5ubmCBmRmZh4dHZFyEe6MR97AYw2hRyMhIaGvr89oNAJYXl6enZ3NupnzwWckE7Iz8HIRvl+G/Wuh+8OPMj+7jPc+kXMAb76Cr+59sbS0BKC8vDw/P58UzM3NjY6OAkhLS2ttbSX6GMhJaF9ACr1eL8hAb2/v1vbpqQkj/7pFKPv47hnS8Ta/wvf09Ag3AsxmM91eiLa2NoEFLBbLQ/ZYXGofyM7OFq/ChCYuTNTW1kqL8uTkpLRIAAgEAuPj42KKxsZGqo3cRpaUlCRtZD6f73oCPDa59bxNFWK8WiHzH92WmQZipH9vpEGn0xUWFgLY3d2dmpoSq+B0OtfX1wEYjcb09HT5P5+MMOeA1A4P5a1IqVQqo5D+vCzMH1siAaj+JzQAWs1DJlgcjKampunpaQA2m81kMklJUKKqiH6B1dVV8Yrk5GTiwkd9fX1cXByAkZER6dUMDw8LgyQq6okYODg4cDqdwZWU6PChUqmqqqoAbG5uOhwOl8vl9XoBVFRUaLVaqoqcgcHBQWmlUigUpaWlRF8KdXV14hVfioCIlpYW0iM3BxwOR3t7e/Cn6nQ6Ui4Fs9nMcZzf7x8bG9NohBmjVqvNZjPp4RpYWFiQXnYgEFhZWbHb7VarVRqmiYmJ3d3dAH76FX/syPU/P5CT333CLhbE6pqc/LZ1gs98Adc4eX+srq62Wq0ej0ehUEjLK8dxVHhGKM77I5/P51Or1dQ7G1qt1mq1Sqdu01sY/4aEEDH/OW4a5HxoaKihoUHuiNtCWVkZ9SI3B1QqVUdHh8vlevR3hkvCZDLFx8eLKVJSUoqLi0kJcQhxHNfV1UU9GRzHaTSajIwMo9EoLXlBNFfjpRepEyKC+4M0ilJTU91ut3DP5ubo6H8b5HSm+O+xuLg4MzNjsVjo0eB2u0kM/Tj99BE8n595qjsvwt8HniiKior6+/uph3BWoacfAwMDa2trsbGxOTk5BQUFRF8dA+Eh6pl+OmaAGWAGmAFmgBlgBpgBZoAZYAaYAWbgGTbwzwDLIcm0j6gAVwAAAABJRU5ErkJggg=="/>
@@ -14,5 +14,13 @@
 <text x="922" y="220" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="17" fill="#59636e" font-weight="600" text-anchor="end">★ 160k</text>
 <text x="922" y="240" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8250df" font-weight="600" text-anchor="end">5 PRs</text>
 <line x1="40" y1="264" x2="922" y2="264" stroke="#d1d9e0" stroke-width="1"/>
+<rect x="40" y="274" width="30" height="30" rx="7" fill="#f0f3f6"/>
+<text x="55" y="295" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#59636e" font-weight="700" text-anchor="middle">D</text>
+<text x="82" y="285" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="19" fill="#1f2328" font-weight="700">bytedance/deer-flow</text>
+<text x="82" y="305" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#59636e" font-weight="normal">An open-source long-horizon SuperAgent harness that researches, codes, and creates…</text>
+<text x="922" y="285" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="17" fill="#59636e" font-weight="600" text-anchor="end">★ 85k</text>
+<text x="922" y="305" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8250df" font-weight="600" text-anchor="end">1 PR</text>
+<line x1="40" y1="326" x2="922" y2="326" stroke="#d1d9e0" stroke-width="1"/>
+<text x="40" y="352" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#59636e" font-weight="normal">数据源 GitHub Search API（is:pr is:merged）· 每个 PR 均可在 GitHub 复核</text>
 <text x="40" y="290" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#59636e" font-weight="normal">数据源 GitHub Search API（is:pr is:merged）· 每个 PR 均可在 GitHub 复核</text>
 </svg>
