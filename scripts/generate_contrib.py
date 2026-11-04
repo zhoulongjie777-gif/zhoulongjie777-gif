@@ -409,7 +409,14 @@ def render(rows: list[dict], total: int, last: str, C: dict, accent: str,
     for i, r in enumerate(rows):
         y = LIST_TOP + i * ROW_H
         href = logo_href(r.get("logo"), C)
-        if href:
+        if r["repo"].lower() == "bytedance/deer-flow":
+            # Draw the small multicolour mark directly so it stays sharp and
+            # does not include the edge of the screenshot used by older cards.
+            for dx, dy, height, color in ((2, 4, 22, "#5b6eb6"), (9, 13, 13, "#5687bd"),
+                                           (16, 10, 16, "#52abae"), (23, 3, 23, "#9ed6c3")):
+                p.append(f'<rect x="{MARGIN + dx}" y="{y + 3 + dy}" width="5" '
+                         f'height="{height}" rx="1" fill="{color}"/>')
+        elif href:
             p.append(f'<defs><clipPath id="lg{i}"><rect x="{MARGIN}" y="{y + 3}" '
                      f'width="{LOGO}" height="{LOGO}" rx="7"/></clipPath></defs>')
             p.append(f'<image x="{MARGIN}" y="{y + 3}" width="{LOGO}" height="{LOGO}" '
