@@ -19,3 +19,7 @@
 - [使用未绑定会话测试 DSL 节点校验](https://github.com/langgenius/dify/pull/45141)
 - [测试 snippet repository 使用调用方会话](https://github.com/langgenius/dify/pull/45143)
 - [测试未绑定会话下的分段归属拒绝](https://github.com/langgenius/dify/pull/45148)
+
+在 [DeerFlow](https://github.com/bytedance/deer-flow) 中参与 GitHub Research 功能修复：
+
+- [修复目录树截断提示并补充回归测试](https://github.com/bytedance/deer-flow/pull/7815) — 区分 GitHub 返回截断与本地输出条数上限，补充边界测试和文档。
