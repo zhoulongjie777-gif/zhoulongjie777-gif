@@ -23,3 +23,11 @@
 在 [DeerFlow](https://github.com/bytedance/deer-flow) 中参与 GitHub Research 功能修复：
 
 - [修复目录树截断提示并补充回归测试](https://github.com/bytedance/deer-flow/pull/7815) — 区分 GitHub 返回截断与本地输出条数上限，补充边界测试和文档。
+
+## 代表项目
+
+### Pi Native CRM
+
+基于 Pi Agent Core 构建的 AI Native CRM 系统：整合客户调查、销售运营、客户沟通与多 Agent 协作，通过持久化 Runtime、受控工具执行和客户记忆，实现从业务分析到自动化执行的完整工作流。
+
+**技术栈** · Next.js · React · TypeScript · Pi Agent Core · MCP · Supabase · Redis · Mem0 · RAG · Langfuse · Multi-Agent
