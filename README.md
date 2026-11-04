@@ -26,7 +26,7 @@
 
 ## 代表项目
 
-### Pi Native CRM
+### 跨境客户经营 CRM（Pi Native CRM）
 
 基于 Pi Agent Core 构建的 AI Native CRM 系统：整合客户调查、销售运营、客户沟通与多 Agent 协作，通过持久化 Runtime、受控工具执行和客户记忆，实现从业务分析到自动化执行的完整工作流。
 
