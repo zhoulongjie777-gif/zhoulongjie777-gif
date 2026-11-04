@@ -22,5 +22,5 @@
 <text x="922" y="305" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#ab7df8" font-weight="600" text-anchor="end">1 PR</text>
 <line x1="40" y1="326" x2="922" y2="326" stroke="#3d444d" stroke-width="1"/>
 <text x="40" y="352" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#9198a1" font-weight="normal"></text>
-<text x="40" y="290" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#9198a1" font-weight="normal">数据源 GitHub Search API（is:pr is:merged）· 每个 PR 均可在 GitHub 复核</text>
+<text x="40" y="352" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#9198a1" font-weight="normal">数据源 GitHub Search API（is:pr is:merged）· 每个 PR 均可在 GitHub 复核</text>
 </svg>
