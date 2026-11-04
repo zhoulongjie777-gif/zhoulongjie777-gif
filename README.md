@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img src="./assets/hero-light.svg" width="100%" alt="zhoulongjie · 参与 Dify 开源项目的 API 测试与工程实践。 · 2028 届硕士在读 · Agent 开发 · 后端 / 全栈 · 成都">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-v2-dark.svg">
+  <img src="./assets/hero-v2-light.svg" width="100%" alt="周龙杰 · Zhou Longjie · 参与 Dify 开源项目的 API 测试与工程实践。 · 2028 届硕士在读 · Agent 开发 · 后端 / 全栈 · 成都">
 </picture>
 
 <!-- CONTRIB:BEGIN -->
