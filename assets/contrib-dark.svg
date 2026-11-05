@@ -13,14 +13,14 @@
 <text x="82" y="240" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#9198a1" font-weight="normal" textLength="655.50" lengthAdjust="spacingAndGlyphs">Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy…</text>
 <text x="922" y="220" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="17" fill="#9198a1" font-weight="600" text-anchor="end">★ 160k</text>
 <text x="922" y="240" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#ab7df8" font-weight="600" text-anchor="end">5 PRs</text>
-<line x1="40" y1="264" x2="922" y2="264" stroke="#3d444d" stroke-width="1"/>
-<rect x="40" y="274" width="30" height="30" rx="7" fill="#21262d"/>
-<text x="55" y="295" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#9198a1" font-weight="700" text-anchor="middle">D</text>
-<text x="82" y="285" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="19" fill="#f0f6fc" font-weight="700">bytedance/deer-flow</text>
-<text x="82" y="305" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#9198a1" font-weight="normal">An open-source long-horizon SuperAgent harness that researches, codes, and creates…</text>
-<text x="922" y="285" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="17" fill="#9198a1" font-weight="600" text-anchor="end">★ 85k</text>
-<text x="922" y="305" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#ab7df8" font-weight="600" text-anchor="end">1 PR</text>
+<rect x="42" y="275" width="5" height="22" rx="1" fill="#5b6eb6"/>
+<rect x="49" y="284" width="5" height="13" rx="1" fill="#5687bd"/>
+<rect x="56" y="281" width="5" height="16" rx="1" fill="#52abae"/>
+<rect x="63" y="274" width="5" height="23" rx="1" fill="#9ed6c3"/>
+<text x="82" y="282" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="19" fill="#f0f6fc" font-weight="700">bytedance/deer-flow</text>
+<text x="82" y="302" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#9198a1" font-weight="normal" textLength="655.50" lengthAdjust="spacingAndGlyphs">An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes…</text>
+<text x="922" y="282" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="17" fill="#9198a1" font-weight="600" text-anchor="end">★ 85k</text>
+<text x="922" y="302" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#ab7df8" font-weight="600" text-anchor="end">1 PR</text>
 <line x1="40" y1="326" x2="922" y2="326" stroke="#3d444d" stroke-width="1"/>
-<text x="40" y="352" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#9198a1" font-weight="normal"></text>
 <text x="40" y="352" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#9198a1" font-weight="normal">数据源 GitHub Search API（is:pr is:merged）· 每个 PR 均可在 GitHub 复核</text>
 </svg>
