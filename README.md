@@ -17,7 +17,9 @@
 - [使用 SQLite 测试草稿变量批量清理](https://github.com/langgenius/dify/pull/45139)
 - [使用 SQLite 测试运行时 skill 身份](https://github.com/langgenius/dify/pull/45140)
 - [使用未绑定会话测试 DSL 节点校验](https://github.com/langgenius/dify/pull/45141)
+- [测试工作流发布事务与 SQLite 回滚](https://github.com/langgenius/dify/pull/45142)
 - [测试 snippet repository 使用调用方会话](https://github.com/langgenius/dify/pull/45143)
+- [测试 RAG pipeline 上传文件持久化](https://github.com/langgenius/dify/pull/45146)
 - [测试未绑定会话下的分段归属拒绝](https://github.com/langgenius/dify/pull/45148)
 
 在 [DeerFlow](https://github.com/bytedance/deer-flow) 中参与 GitHub Research 功能修复：
