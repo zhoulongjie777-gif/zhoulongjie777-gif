@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="962" height="368" viewBox="0 0 962 368" role="img" aria-label="6 merged PRs">
-<title>6 merged PRs</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="962" height="368" viewBox="0 0 962 368" role="img" aria-label="8 merged PRs">
+<title>8 merged PRs</title>
 
 <rect x="40" y="47" width="7" height="7" fill="#ab7df8"/>
 <text x="56" y="54" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#ab7df8" font-weight="600">OPEN SOURCE / MERGED PULL REQUESTS</text>
-<text x="36" y="152" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="96" fill="#f0f6fc" font-weight="700" textLength="50.88" lengthAdjust="spacingAndGlyphs">6</text>
+<text x="36" y="152" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="96" fill="#f0f6fc" font-weight="700" textLength="50.88" lengthAdjust="spacingAndGlyphs">8</text>
 <text x="104.88" y="130" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="18.5" fill="#9198a1" font-weight="normal">merged PRs</text>
 <text x="104.88" y="152" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#9198a1" font-weight="normal">覆盖 2 个仓库</text>
 <line x1="40" y1="182" x2="922" y2="182" stroke="#3d444d" stroke-width="1"/>
@@ -12,7 +12,7 @@
 <text x="82" y="220" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="19" fill="#f0f6fc" font-weight="700">langgenius/dify</text>
 <text x="82" y="240" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#9198a1" font-weight="normal" textLength="655.50" lengthAdjust="spacingAndGlyphs">Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy…</text>
 <text x="922" y="220" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="17" fill="#9198a1" font-weight="600" text-anchor="end">★ 160k</text>
-<text x="922" y="240" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#ab7df8" font-weight="600" text-anchor="end">5 PRs</text>
+<text x="922" y="240" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#ab7df8" font-weight="600" text-anchor="end">7 PRs</text>
 <rect x="42" y="275" width="5" height="22" rx="1" fill="#5b6eb6"/>
 <rect x="49" y="284" width="5" height="13" rx="1" fill="#5687bd"/>
 <rect x="56" y="281" width="5" height="16" rx="1" fill="#52abae"/>
