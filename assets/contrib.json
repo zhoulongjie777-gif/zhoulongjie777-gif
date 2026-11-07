@@ -10,7 +10,7 @@
   "repos": [
     {
       "repo": "langgenius/dify",
-      "stars": 160532,
+      "stars": 160597,
       "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
       "owner": "langgenius",
       "logo": {
@@ -24,7 +24,7 @@
     },
     {
       "repo": "bytedance/deer-flow",
-      "stars": 85059,
+      "stars": 85102,
       "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "owner": "bytedance",
       "logo": {
@@ -37,5 +37,5 @@
       "prs_exact": true
     }
   ],
-  "generated_at": "2026-11-06T11:13:05.020854+00:00"
+  "generated_at": "2026-11-07T10:30:19.446058+00:00"
 }
