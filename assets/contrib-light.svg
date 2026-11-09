@@ -19,7 +19,7 @@
 <rect x="63" y="274" width="5" height="23" rx="1" fill="#9ed6c3"/>
 <text x="82" y="282" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="19" fill="#1f2328" font-weight="700">bytedance/deer-flow</text>
 <text x="82" y="302" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#59636e" font-weight="normal" textLength="655.50" lengthAdjust="spacingAndGlyphs">An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes…</text>
-<text x="922" y="282" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="17" fill="#59636e" font-weight="600" text-anchor="end">★ 85.1k</text>
+<text x="922" y="282" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="17" fill="#59636e" font-weight="600" text-anchor="end">★ 85.2k</text>
 <text x="922" y="302" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8250df" font-weight="600" text-anchor="end">1 PR</text>
 <line x1="40" y1="326" x2="922" y2="326" stroke="#d1d9e0" stroke-width="1"/>
 <text x="40" y="352" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#59636e" font-weight="normal">数据源 GitHub Search API（is:pr is:merged）· 每个 PR 均可在 GitHub 复核</text>
